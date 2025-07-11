@@ -7,4 +7,9 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  server: {
+    port: 3001,     // หรือพอร์ตที่คุณต้องการ
+    host: true,     // สำคัญ! เพื่อให้ใช้ IP ในเครือข่ายได้
+  }
+
 });

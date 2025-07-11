@@ -65,18 +65,18 @@ const Dashboard = () => {
                                     HIS System
                                 </h2>
 
+                                <div className="bg-white/40 shadow-md rounded-xl p-6">
+                                    <p className="text-lg font-bold text-[#004A80] leading-relaxed">
+                                        EMR : Computerized Physician Order Entry (CPOE) & Clinical Decision Support (CDS)                     
+                                   </p>
+                                </div>
 
                                 <div className="bg-white/40 shadow-md rounded-xl p-6">
                                     {/* <h2 className="text-2xl font-bold text-[#004A80] mb-2">Doctor Appointment</h2> */}
                                     <p className="text-sm text-[#004A80] leading-relaxed">
                                         Transform the way your hospital works with our all-in-one Hospital Information System (HIS). From patient records to clinical workflows and admin tasks, our platform brings everything together—boosting efficiency, minimizing errors, and putting patient safety at the center of care.                                    </p>
                                 </div>
-                                {/* <div className="bg-white/40 shadow-md rounded-xl p-6">
-                                    <h2 className="text-2xl font-bold text-[#004A80] mb-2">New Opportunities</h2>
-                                    <p className="text-sm text-[#004A80] leading-relaxed">
-                                        Telemedicine can connect to business services to offer follow‑up options for patients online.
-                                    </p>
-                                </div> */}
+
                             </div>
                         </div>
                     </div>
